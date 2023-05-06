@@ -1,0 +1,300 @@
+[
+  {
+    "guid": {
+      "a": "e226e120-45c2-df9d-c687-26b0f35cc32b",
+      "b": ""
+    },
+    "objGuid": "Guid(17892678610801857370, 559697082159424149)",
+    "extraType": "Entity",
+    "name": "Camera",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none",
+    "createdEffectNodeKey": ""
+  },
+  {
+    "guid": {
+      "a": "06426de3-9794-b596-68f5-ad8b19301597",
+      "b": ""
+    },
+    "objGuid": "Guid(1029434961439008335, 6372224128272086966)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": false,
+    "editable": true,
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "guid": {
+      "a": "fc566313-6fff-f79d-dfe2-551fa27b6ba3",
+      "b": ""
+    },
+    "objGuid": "Guid(18105285478990961701, 9831723644311923880)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "guid": {
+      "a": "45f1c669-911b-a4a0-0d69-a797fc00616a",
+      "b": ""
+    },
+    "objGuid": "Guid(10827949423485651365, 543587625606924957)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "eulerAngle": [
+      299.9999694824219,
+      269.99993896484375,
+      0.000020490573660936207
+    ]
+  },
+  {
+    "guid": {
+      "a": "97bc6ff0-3243-4a16-41cf-bb3205a4fab0",
+      "b": ""
+    },
+    "objGuid": "Guid(17962689596008490166, 7179635901770782896)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": false,
+    "editable": true,
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "guid": {
+      "a": "c2ac6370-04ab-84d2-9e29-ab5ee8fabb24",
+      "b": ""
+    },
+    "objGuid": "Guid(12556560734000964803, 7508859945702231687)",
+    "extraType": "Camera",
+    "name": "Camera",
+    "rttiType": "Camera",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": false,
+    "editable": true,
+    "usage": "Common"
+  },
+  {
+    "guid": {
+      "a": "efd53c36-f647-e12b-de38-640d24357323",
+      "b": ""
+    },
+    "objGuid": "Guid(10182207510927428034, 3749497422664805285)",
+    "extraType": "PostProcess",
+    "name": "Post Process",
+    "rttiType": "JSScriptComponent",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "postProcessList": [
+      4,
+      5
+    ],
+    "pBloomEnable_expand": true,
+    "pFxaaEnable_expand": true,
+    "pChromaticAberrationEnable_expand": true,
+    "pDistortEnable_expand": true,
+    "pGrainEnable_expand": true,
+    "pVignetteEnable_expand": true,
+    "pLensFlareEnable_expand": true,
+    "pMotionBlurEnable_expand": true,
+    "pBokehBlurEnable_expand": true,
+    "pCustomEnable_expand": true
+  },
+  {
+    "guid": {
+      "a": "9a9d8627-dd4a-eb18-89d4-aa113c6da202",
+      "b": ""
+    },
+    "objGuid": "Guid(3261253174792506660, 16680708562180406145)",
+    "extraType": "Entity",
+    "name": "Directional Light",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none",
+    "createdEffectNodeKey": ""
+  },
+  {
+    "guid": {
+      "a": "e018bf06-819b-4661-b6d4-baa0335f107b",
+      "b": ""
+    },
+    "objGuid": "Guid(13350271480239526722, 3096813384112271290)",
+    "extraType": "DirectionalLight",
+    "name": "Directional Light",
+    "rttiType": "DirectionalLight",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "shadowAdvanceExpanded": false
+  },
+  {
+    "guid": {
+      "a": "2e55029c-aa53-5bba-0c3e-83d0426d44c7",
+      "b": ""
+    },
+    "objGuid": "Guid(5134699530163802290, 2980953063556946364)",
+    "extraType": "Entity",
+    "name": "CameraSub",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none",
+    "createdEffectNodeKey": ""
+  },
+  {
+    "guid": {
+      "a": "61c37191-dfff-5b77-62d8-c0bd1db4271c",
+      "b": ""
+    },
+    "objGuid": "Guid(4272701265264673573, 369109630354392709)",
+    "extraType": "Camera",
+    "name": "Camera",
+    "rttiType": "Camera",
+    "version": "0.2.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": false,
+    "editable": true,
+    "usage": "Common"
+  },
+  {
+    "guid": {
+      "a": "d57d9dc8-ecfe-2bd5-b9ee-20648dc0ea96",
+      "b": ""
+    },
+    "objGuid": "Guid(6360849912737956333, 1117937534773314202)",
+    "extraType": "MeshRenderer",
+    "name": "Model",
+    "rttiType": "MeshRenderer",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": false,
+    "editable": true,
+    "visualization": false
+  },
+  {
+    "guid": {
+      "a": "e7400422-8a1a-f3ea-a36f-4232fa21b64c",
+      "b": ""
+    },
+    "objGuid": "Guid(9101523640278338120, 8062874285419687584)",
+    "extraType": "LutFilter",
+    "name": "Filter",
+    "rttiType": "JSScriptComponent",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "4b599822-9b6b-0768-ca89-74c509a546ae",
+      "b": ""
+    },
+    "objGuid": "Guid(5425813490842039228, 12675349109892176773)",
+    "extraType": "PostProcess",
+    "name": "Post Process",
+    "rttiType": "JSScriptComponent",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "postProcessList": [
+      7,
+      4,
+      6
+    ],
+    "pBloomEnable_expand": true,
+    "pFxaaEnable_expand": true,
+    "pChromaticAberrationEnable_expand": true,
+    "pDistortEnable_expand": true,
+    "pGrainEnable_expand": true,
+    "pVignetteEnable_expand": true,
+    "pLensFlareEnable_expand": true,
+    "pMotionBlurEnable_expand": true,
+    "pBokehBlurEnable_expand": true,
+    "pCustomEnable_expand": true
+  },
+  {
+    "guid": {
+      "a": "ee8acac8-2a9b-52c9-dff8-2c86b0d99450",
+      "b": ""
+    },
+    "objGuid": "Guid(7153069649833874698, 15229377880855013248)",
+    "extraType": "Entity",
+    "name": "General",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none",
+    "createdEffectNodeKey": ""
+  },
+  {
+    "guid": {
+      "a": "34895498-a921-10e9-0ccb-e5472ca1f5f3",
+      "b": ""
+    },
+    "objGuid": "Guid(12557944849940930021, 16692423333462894980)",
+    "extraType": "EffectNode",
+    "name": "EffectNode",
+    "rttiType": "EffectNode",
+    "version": "0.1.0",
+    "isVisibleInInspector": false,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "type": 5
+  }
+]

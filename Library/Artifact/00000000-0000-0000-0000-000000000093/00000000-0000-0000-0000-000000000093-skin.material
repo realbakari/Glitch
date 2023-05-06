@@ -1,0 +1,29 @@
+%YAML 1.1
+--- !Material &1
+name: None
+guid: {a: 8596115533042035218, b: 12751927223671331509}
+xshader: {localId: 1, path: 00000000-0000-0000-0000-000000000093--00000000-0000-0000-0000-000000000093.xshader}
+properties:
+  __class: PropertySheet
+  name: ""
+  guid: {a: 10109687228732734067, b: 13761666876876136598}
+  floatmap:
+    __class: Map
+  vec4map:
+    __class: Map
+  vec3map:
+    __class: Map
+  vec2map:
+    __class: Map
+  mat4map:
+    __class: Map
+  texmap:
+    __class: Map
+  intmap:
+    __class: Map
+renderQueue: -1
+enabledMacros:
+  __class: Map
+  AE_AMAZING_USE_BONES: !<str> 1
+mshaderPath: ""
+instanceCount: 0
